@@ -1,4 +1,4 @@
-# isprime
+# iMyproject1
 Steps to test is prime or not using pytest (internet connection required) on Pycharm terminal
 1. pip - h
 2. pip install virtualenv
